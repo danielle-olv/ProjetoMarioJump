@@ -1,6 +1,6 @@
 # Mario Jump 🎮
 
-Inspirado no clássico da Nintendo, este jogo foi desenvolvido em **HTML, CSS e JavaScript**, como prática de conceitos de front-end e lógica de programação.
+Um mini-jogo inspirado no clássico da Nintendo, desenvolvido com **HTML, CSS e JavaScript** para praticar conceitos de front-end, animações e lógica de jogos 2D.
 
 ## Funcionalidades
 - Animações de cenário (nuvens, obstáculos) com CSS keyframes.
