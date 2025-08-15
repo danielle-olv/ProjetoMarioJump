@@ -12,7 +12,7 @@ Um mini-jogo inspirado no clássico da Nintendo, desenvolvido com **HTML, CSS e 
 ## Objetivo
 Praticar manipulação do DOM, lógica de jogos 2D e boas práticas de versionamento de código.
 
-##Deploy (GitHubPages)
+## Deploy (GitHubPages)
 Clique aqui para jogar 👉 https://danielle-olv.github.io/ProjetoMarioJump 
 
 
